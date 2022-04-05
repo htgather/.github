@@ -1,4 +1,4 @@
-<div align="center"><img width="1920" alt="PPT 표지 - 1" src="https://user-images.githubusercontent.com/97436315/161661969-03f7777e-70c6-49f7-8958-e080989aff44.png">
+<div align="center"><img width="1920" alt="PPT 표지 - 1" href="https://htgather.com/" src="https://user-images.githubusercontent.com/97436315/161661969-03f7777e-70c6-49f7-8958-e080989aff44.png">
   <h2>webRTC와 socketIO를 활용한 비대면 홈트레이닝 플랫폼,홈트게더</h2></div>
 
 <br>
