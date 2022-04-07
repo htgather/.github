@@ -170,8 +170,8 @@
 ## 프로젝트 구조
 <details markdown="1">
 <summary>서비스 아키텍처</summary>
-
- ![서비스 아키텍처](https://user-images.githubusercontent.com/89131236/161880593-3cd701fc-6cf3-4115-a34f-54bf011f3865.png)
+  
+![서비스 아키텍처 (1)](https://user-images.githubusercontent.com/89131236/162144846-6f8a2601-ea8c-4d80-849d-b70ab6e5a975.jpg)
 </details>
 
 <details markdown="2">
